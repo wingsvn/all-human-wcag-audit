@@ -73,6 +73,7 @@ Lighthouse is een geautomatiserde test die veel voorkomende toegankelijkheidspro
 #### Materiaal Screenreader
  - [VoiceOver een Mac OS screenreader](https://webaim.org/articles/voiceover/)
  - [JAWS on Windows](https://downloads.sensotec.be/Jaws/Sneltoetsen-JAWS2018.pdf)
+ - [Screen Reader Keyboard Shortcuts and Gestures](https://dequeuniversity.com/screenreaders/)
 
 ## Definition of done
 
