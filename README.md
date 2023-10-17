@@ -2,15 +2,16 @@
 
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daarover.
+Voor de deeltaak wcag audit heb ik een toegankelijkheidstest uitgevoerd op een zelf uitgekozen website. Ik heb eerst een geautomatiseerde test gedaan env ervolgens nog een handmatige.
 
-## Titel Website
+## OBS de vierwindstreken
 
 Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+Ik heb de website van een basisschool getest: www.obsvierwindstreken.nl met Lighthouse audit. Hieruit kwam een score van 71.
 
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
+<img width="1459" alt="Scherm­afbeelding 2023-10-17 om 22 17 36" src="https://github.com/wingsvn/all-human-wcag-audit/assets/144009709/9b9d2d51-b4f1-48d4-af16-eaeaf78a81f0">
 
-Schrijf een samenvatting van de testbevindingen.
+Uit de test kwamen een aantal problemen naar voren, deze gingen voornamelijk over de labeling van elementen en over het contrast. Meer hierover vindt je in mijn wiki.
 
 ## Licentie
 
